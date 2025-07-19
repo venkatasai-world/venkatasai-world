@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
   <img src="my github.gif" alt="GitHub Demo" 
-   height="300" width="800"/>
+   height="500" width="1000"/>
 
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/venkatasai-merugu-25aa14296/</h3>
