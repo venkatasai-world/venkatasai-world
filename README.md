@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merugu Venkatasai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center">
+
   <img src="github.gif" alt="GitHub Demo" width="500"/>
-</p>
 
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/venkatasai-merugu-25aa14296/</h3>
